@@ -155,16 +155,6 @@ export default function Home() {
           ))}
         </motion.div>
 
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1.2 }}
-          className="text-center text-gray-500 text-sm"
-        >
-          <p>English | Hindi | Urdu | Kannada</p>
-        </motion.div>
-      </motion.div>
-
       {isHovered && (
         <motion.div
           className="absolute bottom-10 left-10 text-sm opacity-50"
