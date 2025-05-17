@@ -161,7 +161,7 @@ export default function Home() {
           transition={{ delay: 1.2 }}
           className="text-center text-gray-500 text-sm"
         >
-          <p>English | Hindi | Urdu | Kannada</p>
+          
         </motion.div>
       </motion.div>
 
