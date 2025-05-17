@@ -75,7 +75,7 @@ export default function Home() {
             onMouseLeave={() => setIsHovered(false)}
             onClick={handleNameClick}
           >
-            BAIG
+           ABDUL RAHMAN ZAFRULLA BAIG
           </motion.div>
         </motion.div>
 
