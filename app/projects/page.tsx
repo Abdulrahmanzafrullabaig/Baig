@@ -29,7 +29,7 @@ export default function ProjectsPage() {
       description:
         "ML-based system using CNNs/OpenCV for signature authentication. The system compares signatures against a database of known samples to detect forgeries.",
       tags: ["Computer Vision", "CNN", "OpenCV", "Authentication"],
-      image: "https://private-user-images.githubusercontent.com/157035204/397962234-16c68c8a-9a4f-4a2f-a8fd-49a530bff438.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0OTMwNjIsIm5iZiI6MTc0NzQ5Mjc2MiwicGF0aCI6Ii8xNTcwMzUyMDQvMzk3OTYyMjM0LTE2YzY4YzhhLTlhNGYtNGEyZi1hOGZkLTQ5YTUzMGJmZjQzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxN1QxNDM5MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZTc4ODhkOGM2NzkyNjcwZmE3MDlhNTZhY2FkY2YyMmE2YmQwM2NlMjU4NWZmZjFiZGFiNmFmMDE4YzM3MWZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7btyroKDzaICbfdas2DI3F3hX9rRnJMptDv2v_J5B3g?height=400&width=600",
+      image: "https://private-user-images.githubusercontent.com/157035204/397962234-16c68c8a-9a4f-4a2f-a8fd-49a530bff438.png?height=400&width=600",
       github: "https://github.com/Abdulrahmanzafrullabaig/Mini-project",
     },
     {
@@ -38,7 +38,7 @@ export default function ProjectsPage() {
       description:
         "Optical Character Recognition using deep learning models. This tool can extract text from images and documents with high accuracy, supporting multiple languages.",
       tags: ["OCR", "Deep Learning", "NLP", "Image Processing"],
-      image: "https://private-user-images.githubusercontent.com/157035204/412545183-749ed545-b756-44e0-840d-3890332faa2a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0OTMxNzIsIm5iZiI6MTc0NzQ5Mjg3MiwicGF0aCI6Ii8xNTcwMzUyMDQvNDEyNTQ1MTgzLTc0OWVkNTQ1LWI3NTYtNDRlMC04NDBkLTM4OTAzMzJmYWEyYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxN1QxNDQxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OThkZDZlMTE0MDQ1OTkxY2YxYzMwMDcxOGNkOWNmYjJmZmE5MjQzNTVlZDMzMmM0MTQ1MzM5ZGNiMmQ3MDczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nAVpIAw7Z-vy27OPiIuUnvds5tgN6CaJM5nf33AmHJQ?height=400&width=600",
+      image: "https://private-user-images.githubusercontent.com/157035204/412545183-749ed545-b756-44e0-840d-3890332faa2a.png?height=400&width=600",
       github: "https://github.com/Abdulrahmanzafrullabaig/OCR",
     },
     {
@@ -47,7 +47,7 @@ export default function ProjectsPage() {
       description:
         "Locally deployed LLM-powered chatbot using Ollama and LangChain. This privacy-focused solution runs entirely on local hardware without sending data to external APIs.",
       tags: ["LLM", "Ollama", "LangChain", "NLP"],
-      image: "/https://private-user-images.githubusercontent.com/157035204/416102701-5bb15cc1-ee74-4a87-83bb-c60aa77745fb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0OTI5MDgsIm5iZiI6MTc0NzQ5MjYwOCwicGF0aCI6Ii8xNTcwMzUyMDQvNDE2MTAyNzAxLTViYjE1Y2MxLWVlNzQtNGE4Ny04M2JiLWM2MGFhNzc3NDVmYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxN1QxNDM2NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjgwMmY1ZGNkYjkzODkwMTlhNzQxZmZkZjYzM2YwODFjZTJhODZjNDY0MzdiMWFkNWM2Y2MxZmFiMzVmOTNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5yPe_gQmT32EeQgZeo-j_Hs_WuvLVT4OZ9yXKUOCyA4?height=400&width=600",
+      image: "/https://private-user-images.githubusercontent.com/157035204/416102701-5bb15cc1-ee74-4a87-83bb-c60aa77745fb.png?height=400&width=600",
       github: "https://github.com/Abdulrahmanzafrullabaig/chatbot-using-Ollama",
     },
     {
