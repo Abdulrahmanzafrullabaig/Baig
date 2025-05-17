@@ -29,7 +29,7 @@ export default function ProjectsPage() {
       description:
         "ML-based system using CNNs/OpenCV for signature authentication. The system compares signatures against a database of known samples to detect forgeries.",
       tags: ["Computer Vision", "CNN", "OpenCV", "Authentication"],
-      image: "https://private-user-images.githubusercontent.com/157035204/397962234-16c68c8a-9a4f-4a2f-a8fd-49a530bff438.png?height=400&width=600",
+      image: "https://th.bing.com/th/id/OIP.SMJeftF73Y9j1bnJhuR4rgHaEK?w=2240&h=1260&rs=1&pid=ImgDetMain?height=400&width=600",
       github: "https://github.com/Abdulrahmanzafrullabaig/Mini-project",
     },
     {
@@ -38,7 +38,7 @@ export default function ProjectsPage() {
       description:
         "Optical Character Recognition using deep learning models. This tool can extract text from images and documents with high accuracy, supporting multiple languages.",
       tags: ["OCR", "Deep Learning", "NLP", "Image Processing"],
-      image: "https://private-user-images.githubusercontent.com/157035204/412545183-749ed545-b756-44e0-840d-3890332faa2a.png?height=400&width=600",
+      image: "https://www.e-arc.com/wp-content/uploads/2022/12/ocr-feature-image.jpg?height=400&width=600",
       github: "https://github.com/Abdulrahmanzafrullabaig/OCR",
     },
     {
@@ -47,7 +47,7 @@ export default function ProjectsPage() {
       description:
         "Locally deployed LLM-powered chatbot using Ollama and LangChain. This privacy-focused solution runs entirely on local hardware without sending data to external APIs.",
       tags: ["LLM", "Ollama", "LangChain", "NLP"],
-      image: "/https://private-user-images.githubusercontent.com/157035204/416102701-5bb15cc1-ee74-4a87-83bb-c60aa77745fb.png?height=400&width=600",
+      image: "https://content.app-sources.com/s/8254109385482359/uploads/Blog/ChatBot_up-3450458.jpg?height=400&width=600",
       github: "https://github.com/Abdulrahmanzafrullabaig/chatbot-using-Ollama",
     },
     {
